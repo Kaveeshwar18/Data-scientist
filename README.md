@@ -38,7 +38,7 @@ This repository is organized into:
 - R², MAE, MSE, RMSE  
 
 🔗 **Project:**  
-[View Linear Regression](https://github.com/Kaveeshwar18/Data-Science-/tree/main/linear-reg)
+[View Linear Regression](https://github.com/Kaveeshwar18/linear-reg.git)
 
 ---
 
@@ -48,7 +48,7 @@ This repository is organized into:
 - Precision, Recall, F1 Score  
 
 🔗 **Project:**  
-[View Logistic Regression](https://github.com/Kaveeshwar18/Data-Science-/tree/main/log-reg)
+[View Logistic Regression](https://github.com/Kaveeshwar18/log-reg.git)
 
 ---
 
@@ -57,7 +57,7 @@ This repository is organized into:
 - Hyperparameter Tuning  
 
 🔗 **Project:**  
-[View KNN](https://github.com/Kaveeshwar18/Data-Science-/tree/main/knn-)
+[View KNN](https://github.com/Kaveeshwar18/knn-.git)
 
 ---
 
@@ -66,7 +66,7 @@ This repository is organized into:
 - Spam Detection Concept  
 
 🔗 **Project:**  
-[View Naive Bayes](https://github.com/Kaveeshwar18/Data-Science-/tree/main/naive%20baiyes)
+[View Naive Bayes](https://github.com/Kaveeshwar18/naive-bayes.git)
 
 ---
 
@@ -79,7 +79,7 @@ This repository is organized into:
 - Optimal Cluster Selection  
 
 🔗 **Project:**  
-[View K-Means](https://github.com/Kaveeshwar18/Data-Science-/tree/main/K-Means-Cluster)
+[View K-Means](https://github.com/Kaveeshwar18/K-Means-Cluster.git)
 
 ---
 
@@ -88,7 +88,7 @@ This repository is organized into:
 - Noise Detection  
 
 🔗 **Project:**  
-[View DBSCAN](https://github.com/Kaveeshwar18/Data-Science-/tree/main/DB-SCAN)
+[View DBSCAN](https://github.com/Kaveeshwar18/DB-SCAN.git)
 
 ---
 
@@ -99,7 +99,7 @@ This repository is organized into:
 - Model Performance Stability  
 
 🔗 **Project:**  
-[View Cross Validation](https://github.com/Kaveeshwar18/Data-Science-/tree/main/cross-valid)
+[View Cross Validation](https://github.com/Kaveeshwar18/cross-valid.git)
 
 ---
 
