@@ -1,64 +1,128 @@
-# Data-scientist
-# 🚀 Data Science Portfolio – Kaveeshwar
+# 🚀 Data Science & Machine Learning Portfolio – Kaveeshwar
 
-Welcome to my Data Science and Machine Learning repository.
-
-This repository contains implementations of major ML algorithms with practical examples and model evaluation.
+> A structured collection of Machine Learning projects  
+> built using practical datasets and clean implementation.
 
 ---
 
-## 📌 Machine Learning Projects
+## 📚 Repository Structure
 
-### 🔹 1. Logistic Regression
-📂 Folder: `log-reg`  
-Used for classification problems and probability estimation.
+This repository is organized into:
 
----
-
-### 🔹 2. Linear Regression
-📂 Folder: `linear-reg`  
-Used for predicting continuous values.
+- 🧠 Core ML Concepts  
+- 🤖 Supervised Learning  
+- 📊 Unsupervised Learning  
+- 📈 Model Evaluation  
 
 ---
 
-### 🔹 3. K-Nearest Neighbors (KNN)
-📂 Folder: `knn-`  
-Distance-based supervised learning algorithm.
+# 🧠 Core Machine Learning Concepts
+
+- Supervised vs Unsupervised Learning
+- Bias–Variance Tradeoff
+- Overfitting vs Underfitting
+- Cross Validation
+- Model Evaluation Metrics
+- Feature Selection
 
 ---
 
-### 🔹 4. Naive Bayes
-📂 Folder: `naive baiyes`  
-Probabilistic classifier based on Bayes Theorem.
+# 🤖 Supervised Learning
 
 ---
 
-### 🔹 5. K-Means Clustering
-📂 Folder: `K-Means-Cluster`  
-Unsupervised clustering algorithm.
+## 📈 Regression
+
+### 🔹 Linear Regression
+- Continuous Value Prediction
+- R², MAE, MSE, RMSE  
+
+🔗 **Project:**  
+[View Linear Regression](https://github.com/Kaveeshwar18/Data-Science-/tree/main/linear-reg)
 
 ---
 
-### 🔹 6. DBSCAN
-📂 Folder: `DB-SCAN`  
-Density-based clustering algorithm.
+### 🔹 Logistic Regression
+- Binary Classification
+- Confusion Matrix
+- Precision, Recall, F1 Score  
+
+🔗 **Project:**  
+[View Logistic Regression](https://github.com/Kaveeshwar18/Data-Science-/tree/main/log-reg)
 
 ---
 
-### 🔹 7. Cross Validation
-📂 Folder: `cross-valid`  
-Model evaluation technique for performance validation.
+### 🔹 K-Nearest Neighbors (KNN)
+- Distance-Based Classification
+- Hyperparameter Tuning  
+
+🔗 **Project:**  
+[View KNN](https://github.com/Kaveeshwar18/Data-Science-/tree/main/knn-)
 
 ---
 
-## 🛠 Technologies Used
-- Python
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
+### 🔹 Naive Bayes
+- Probabilistic Classifier
+- Spam Detection Concept  
+
+🔗 **Project:**  
+[View Naive Bayes](https://github.com/Kaveeshwar18/Data-Science-/tree/main/naive%20baiyes)
 
 ---
 
-## 🎯 Goal
-To build a strong foundation in Machine Learning by implementing algorithms from scratch and using real datasets.
+# 📊 Unsupervised Learning
+
+---
+
+### 🔹 K-Means Clustering
+- Elbow Method
+- Optimal Cluster Selection  
+
+🔗 **Project:**  
+[View K-Means](https://github.com/Kaveeshwar18/Data-Science-/tree/main/K-Means-Cluster)
+
+---
+
+### 🔹 DBSCAN
+- Density-Based Clustering
+- Noise Detection  
+
+🔗 **Project:**  
+[View DBSCAN](https://github.com/Kaveeshwar18/Data-Science-/tree/main/DB-SCAN)
+
+---
+
+# 📈 Model Evaluation
+
+### 🔹 Cross Validation
+- K-Fold Cross Validation
+- Model Performance Stability  
+
+🔗 **Project:**  
+[View Cross Validation](https://github.com/Kaveeshwar18/Data-Science-/tree/main/cross-valid)
+
+---
+
+# 🛠 Tech Stack
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-Learn  
+
+---
+
+# 🌟 Highlights
+
+✔ Clean Implementation  
+✔ Well-Structured Code  
+✔ Model Evaluation Included  
+✔ Academic + Practical Learning  
+✔ Strong Machine Learning Foundations  
+
+---
+
+# 🎯 Goal
+
+To master Machine Learning concepts through practical implementation and structured experimentation.
